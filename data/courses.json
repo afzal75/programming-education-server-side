@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "0111",
+      "name": "Artificial Intelligence",
+      "price": "$99",
+      "description": "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.",
+      "image": "https://img.freepik.com/free-vector/abstract-wireframe-digital-human-female-face-streaming-matrix-digital-binary-code-background-ai-artificial-intelligence-concept_127544-849.jpg?size=626&ext=jpg&uid=R36483021&ga=GA1.2.1946281263.1666735946&semt=sph"
+    },
+    {
+      "_id": "02222",
+      "name": "Android Development",
+      "price": "$50",
+      "description": "Application development involves the process, life, and creation of the software aimed at helping users. Mobile Developers work closely with computer analysts and engineers in using languages such as Java and C++ to develop the necessary specifications for software.",
+      "image": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?size=626&ext=jpg"
+    },
+    {
+      "_id": "03333",
+      "name": "Data Science",
+      "price": "$90",
+      "description": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization's data. These insights can be used to guide decision making and strategic planning",
+      "image": "https://img.freepik.com/free-vector/data-science-programming_39422-1055.jpg?size=626&ext=jpg"
+    },
+    {
+      "_id": "04444",
+      "name": "Robotics",
+      "price": "$80",
+      "description": "Robotics engineering is a field of engineering which centers on building machines that replicate human actions. A robotics engineer creates these applications or autonomous machines (aka robots) for industries such as mining, manufacturing, automotive, services and more.",
+      "image": "https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?size=626&ext=jpg"
+    },
+    {
+      "_id": "05555",
+      "name": "Data Structure & Algorithom",
+      "price": "$70",
+      "description": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.",
+      "image": "https://img.freepik.com/free-vector/spherical-data-cloud-visualization-3d-big-data-scientific-processing-futuristic-hud-ui-mainframe-screen-technological-data-clusters-analysis-intricate-information-connections_1217-5931.jpg?size=626&ext=jpg"
+    },
+    {
+      "_id": "06666",
+      "name": "Web Development",
+      "price": "$60",
+      "description": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages.",
+      "image": "https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?size=626&ext=jpg"
+    }
+  ]
