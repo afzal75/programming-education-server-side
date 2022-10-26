@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "02",
+      "name": "Meachine Learning"
+    },
+    {
+      "id": "03",
+      "name": "Data Science"
+    },
+    {
+      "id": "04",
+      "name": "Robotics"
+    },
+    {
+      "id": "05",
+      "name": "Data Structure & Algorithom"
+    },
+    {
+      "id": "06",
+      "name": "Web Development"
+    }
+  ]
