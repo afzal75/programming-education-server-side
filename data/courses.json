@@ -4,7 +4,7 @@
       "name": "Artificial Intelligence",
       "price": "$99",
       "description": "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.",
-      "image": "https://img.freepik.com/free-vector/abstract-wireframe-digital-human-female-face-streaming-matrix-digital-binary-code-background-ai-artificial-intelligence-concept_127544-849.jpg?size=626&ext=jpg&uid=R36483021&ga=GA1.2.1946281263.1666735946&semt=sph"
+      "image": "https://as1.ftcdn.net/v2/jpg/02/45/85/32/1000_F_245853295_eytAv7X3EDoo6jltPEHVn5fKu1vh6gYb.jpg"
     },
     {
       "_id": "02222",
@@ -32,13 +32,13 @@
       "name": "Data Structure & Algorithom",
       "price": "$70",
       "description": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.",
-      "image": "https://img.freepik.com/free-vector/spherical-data-cloud-visualization-3d-big-data-scientific-processing-futuristic-hud-ui-mainframe-screen-technological-data-clusters-analysis-intricate-information-connections_1217-5931.jpg?size=626&ext=jpg"
+      "image": "https://as2.ftcdn.net/v2/jpg/03/22/23/03/1000_F_322230356_28ZMcWaHMVYgqz3gjXHGrwxt2jf2cCxU.jpg"
     },
     {
       "_id": "06666",
       "name": "Web Development",
       "price": "$60",
       "description": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages.",
-      "image": "https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?size=626&ext=jpg"
+      "image": "https://img.freepik.com/free-vector/flat-design-cms-concept-illustrated_23-2148796510.jpg?size=626&ext=jpg&uid=R36483021&ga=GA1.2.1946281263.1666735946&semt=sph"
     }
   ]
